@@ -1,0 +1,245 @@
+local function block()
+local bblock =  Instance.new("Part")
+bblock.Name = "bruh"
+bblock.Size = Vector3.new(4, 1, 18)
+bblock.Position = Vector3.new(-1503.19287, 0, 2.9037323, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+bblock.Anchored = true
+bblock.Parent = Workspace
+end
+
+block()
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+local function blockq()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(5, 6, 5)
+block1.Position = Vector3.new(-1493.69189, 2.5, 5.79164267, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Parent = Workspace
+block1.BrickColor = BrickColor.new("Sand blue")
+end
+
+blockq()
+ 
+
+
+local function blocka()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(3, 12, 14)
+block1.Position = Vector3.new(-1480.63892, 5.5, 5.47237635, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Parent = Workspace
+block1.BrickColor = BrickColor.new("Lime green")
+end
+
+blocka()
+ 
+
+local function blockw()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(4, 1, 8)
+block1.Position = Vector3.new(-1467.02295, 13, 5.7437973, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Parent = Workspace
+block1.BrickColor = BrickColor.new("Electric blue")
+end
+
+blockw()
+ 
+
+local function blocke()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(27, 1, 2)
+block1.Position = Vector3.new(-1453.52295, 12.8967066, 5.11263275, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Parent = Workspace
+block1.BrickColor = BrickColor.new("Electric blue")
+end
+
+blocke()
+
+
+local function blockd()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(3, 16, 2)
+block1.Position = Vector3.new(-1448.17419, 20.8967056, 4.87997341, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Parent = Workspace
+block1.BrickColor = BrickColor.new("Electric blue")
+end
+
+blockd()
+
+
+local function blocky()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(3, 2, 2)
+block1.Position = Vector3.new(-1428.25024, 4.89670658, 5.05649757, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Parent = Workspace
+block1.BrickColor = BrickColor.new("Electric blue")
+end
+
+blocky()
+
+
+local function blockr()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(5, 1, 2)
+block1.Position = Vector3.new(-1416.25024, 9.86911011, 5.09522343, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Parent = Workspace
+block1.BrickColor = BrickColor.new("Electric blue")
+end
+
+blockr()
+
+
+local function blockf()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(4, 1, 2)
+block1.Position = Vector3.new(-1406.18567, 10, -0.216356277, 1, 0, 0, 0, 0.707106948, -0.70710665, 0, 0.70710665, 0.707106948)
+block1.Anchored = true
+block1.Parent = Workspace
+block1.BrickColor = BrickColor.new("Electric blue")
+end
+
+blockf()
+
+
+local function blockx()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(16, 1, 2)
+block1.Position = Vector3.new(-1392.94202, 6.10641432, 1.54274321, 0.965925813, 0.25000003, -0.0669872388, 0, -0.258818805, -0.965925932, -0.258819044, 0.933012784, -0.249999762)
+block1.Rotation = Vector3.new(104.51100158691406, -3.8410000801086426, -14.51099967956543)
+block1.Anchored = true
+block1.Parent = Workspace
+block1.BrickColor = BrickColor.new("Electric blue")
+end
+
+blockx()
+
+local function blockt()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(45, 9, 1)
+block1.Position = Vector3.new(-1364.68469, 9.66552544, -0.916321158, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Parent = Workspace
+block1.BrickColor = BrickColor.new("Electric blue")
+end
+
+blockt()
+
+
+local function blockg()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(9, 10, 2)
+block1.Position = Vector3.new(-1328.66748, 4.5, -3.18332481, 1, 0, -1.74845553e-07, 0, 1, 0, 1.74845553e-07, 0, 1)
+block1.Anchored = true
+block1.Parent = Workspace
+end
+
+blockg()
+
+
+local function blockc()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(7, 4, 2)
+block1.Position = Vector3.new(-1310.66748, 2.51586342, -2.87591791, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Parent = Workspace
+block1.BrickColor = BrickColor.new("Electric blue")
+end
+
+blockc()
+
+
+local function blockz()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(7, 1, 2)
+block1.Position = Vector3.new(-1299.03784, 0, -3.09988213, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Parent = Workspace
+block1.BrickColor = BrickColor.new("Electric blue")
+end
+
+blockz()
+
+
+
+
+local function blockh()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(7, 4, 2)
+block1.Position = Vector3.new(-1287.16321, 1.5, -3.32036495, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Parent = Workspace
+block1.BrickColor = BrickColor.new("Electric blue")
+end
+
+blockh()
+
+
+local function blockv()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(9, 10, 2)
+block1.Position = Vector3.new(-1272.16321, 4.51360607, -3.5626061, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Parent = Workspace
+end
+
+blockv()
+
+
+
+local function blocku()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(14, 1, 2)
+block1.Position = Vector3.new(-1249.66321, 3.60274792, -3.64179254, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Parent = Workspace
+block1.BrickColor = BrickColor.new("Electric blue")
+end
+
+blocku()
+
+
+
+local function blockj()
+local block1 =  Instance.new("Part")
+block1.Name = "bruh1"
+block1.Size = Vector3.new(20, 1, 20)
+block1.Position = Vector3.new(-1225.81482, 3, -4.57432556, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Parent = Workspace
+block1.Reflectance = 1
+block1.BrickColor = BrickColor.new("Cyan")
+end
+
+blockj()
