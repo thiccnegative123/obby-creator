@@ -1,0 +1,162 @@
+local function block()
+local block1 = Instance.new("Part")
+block1.Size = Vector3.new(4, 1, 29)
+block1.Position = Vector3.new(-295.084778, 0, 0.0642967224, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.BrickColor = BrickColor.new("Toothpaste")
+block1.Reflectance = 1
+block1.Parent = Workspace
+block1.Name = "LOL"
+end
+
+block()
+
+
+
+local function block1()
+local block1 = Instance.new("Part")
+block1.Size = Vector3.new(20, 1, 24)
+block1.Position = Vector3.new(-284.044006, 6, -0.103370667, 0.866025388, -0.5, 0, 0.5, 0.866025388, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Rotation = Vector3.new(0, 0, 30)
+block1.BrickColor = BrickColor.new("Cyan")
+block1.Reflectance = 0.3
+block1.Parent = Workspace
+block1.Transparency =0.7
+block1.Name = "LOL"
+end
+
+block1()
+
+
+local function block2()
+local block1 = Instance.new("Part")
+block1.Size = Vector3.new(13, 1, 2)
+block1.Position = Vector3.new(-270.769409, 10.8019753, -1.36841202, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.BrickColor = BrickColor.new("Toothpaste")
+block1.Parent = Workspace
+block1.Name = "LOL"
+end
+
+block2()
+
+
+
+
+local function block3()
+local block1 = Instance.new("Part")
+block1.Size = Vector3.new(4, 1, 2)
+block1.Position = Vector3.new(-252.994293, 6.8364048, -2.1970911, 0.866025388, 0.5, 0, -0.5, 0.866025388, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Rotation = Vector3.new(0, 0, -30)
+block1.BrickColor = BrickColor.new("Toothpaste")
+block1.Reflectance = 1
+block1.Parent = Workspace
+block1.Name = "LOL ROTATIONS"
+end
+
+block3()
+
+local function block4()
+local block1 = Instance.new("Part")
+block1.Size = Vector3.new(4, 1, 7)
+block1.Position = Vector3.new(-239.783386, 7.94912338, -2.88352251, 0.965925813, 0, 0.258819044, 0.183012664, 0.707106888, -0.683012545, -0.183012724, 0.70710665, 0.683012784)
+block1.Anchored = true
+block1.Rotation = Vector3.new(45, 15, 0)
+block1.BrickColor = BrickColor.new("Cyan")
+block1.Reflectance = 0.5
+block1.Parent = Workspace
+block1.Name = "LOL"
+end
+
+block4()
+
+local function block5()
+local block1 = Instance.new("Part")
+block1.Size = Vector3.new(17, 1, 6)
+block1.Position = Vector3.new(-231.693512, 12.2426405, -3.6223464, 0.707106769, -0.707106769, 0, 0.707106769, 0.707106769, 0, 0, 0, 1)
+block1.Anchored = true
+block1.Transparency = 0.8
+block1.BrickColor = BrickColor.new("Cyan")
+block1.Reflectance = 1
+block1.Rotation = Vector3.new(0, 0, 45)
+block1.Parent = Workspace
+block1.Name = "LOL"
+end
+
+block5()
+
+
+local function block6()
+local block1 = Instance.new("Part")
+block1.Size = Vector3.new(4, 1, 8)
+block1.Position = Vector3.new(-214.538055, 14.4228115, -4.00324678, 0.49999997, 0.866025448, 0, -0.866025448, 0.49999997, 0, 0, 0, 1)
+block1.Rotation = Vector3.new(0, 0, -60)
+block1.Anchored = true
+block1.BrickColor = BrickColor.new("Toothpaste")
+block1.Reflectance = 0.5
+block1.Parent = Workspace
+block1.Transparency = 0.4
+block1.Name = "LOL"
+end
+
+block6()
+
+
+local function block7()
+local block1 = Instance.new("Part")
+block1.Size = Vector3.new(7, 1, 4)
+block1.Position = Vector3.new(-199.628738, 6.98181343, -4.78649569, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.BrickColor = BrickColor.new("Toothpaste")
+block1.Reflectance = 1
+block1.Parent = Workspace
+block1.Name = "LOLLLL"
+end
+
+block7()
+
+
+
+local function block8()
+local block1 = Instance.new("Part")
+block1.Size = Vector3.new(19, 4, 2)
+block1.Position = Vector3.new(-188.783951, 11.9818134, -4.14425802, 1, 0, -1.74845553e-07, 0, 1, 0, 1.74845553e-07, 0, 1)
+block1.Anchored = true
+block1.BrickColor = BrickColor.new("Toothpaste")
+block1.Reflectance = 1
+block1.Transparency = 0.7
+block1.Parent = Workspace
+block1.Name = "LOL"
+end
+
+block8()
+
+
+local function block9()
+local block1 = Instance.new("Part")
+block1.Size = Vector3.new(39, 1, 11)
+block1.Position = Vector3.new(-162.844238, 20.4645996, -5.04434204, -0.707106769, 0.707106769, 0, -0.707106769, -0.707106769, 0, 0, 0, 1)
+block1.Anchored = true
+block1.BrickColor = BrickColor.new("Fossil")
+block1.Parent = Workspace
+block1.Rotation = Vector3.new(0, 0, -135)
+block1.Name = "LOL"
+end
+
+block9()
+
+
+local function block10()
+local block1 = Instance.new("Part")
+block1.Size = Vector3.new(31, 1, 2)
+block1.Position = Vector3.new(-123.258423, 17, -6.13729477, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+block1.Anchored = true
+block1.BrickColor = BrickColor.new("Cyan")
+block1.Reflectance = 1
+block1.Parent = Workspace
+block1.Name = "THE END"
+end
+
+block10()
